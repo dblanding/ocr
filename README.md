@@ -9,7 +9,7 @@ On advice I got at [stackflow](https://stackoverflow.com/questions/51853018/how-
 
 I decided to create a new conda environment called 'cv' and then install the needed python libraries within that environment.
 
-Still needed to install tesseract. Another [stackflow answer](https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i/53672281) directed me to the tesseract installer and the advice to add a line to the python code to direct the way to the tesseract executable.
+Still needed to install tesseract. Another [stackflow answer](https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i/53672281) directed me to the tesseract installer and the advice to add a line to the python code with the path to the tesseract executable.
 
 ```
 """
