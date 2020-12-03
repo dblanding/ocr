@@ -38,6 +38,8 @@ out_below = pytesseract.image_to_string(img)
 print("OUTPUT:", out_below)
 ```
 
+[Here](docs/flexures.md) is a paper on flexures I digitized using this program. 
+
 ### Other Articles on Tesseract and PyTesseract
 
 - [OCR with Python, OpenCV and PyTesseract](https://medium.com/@jaafarbenabderrazak.info/ocr-with-tesseract-opencv-and-python-d2c4ec097866)
